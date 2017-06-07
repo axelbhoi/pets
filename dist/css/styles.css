@@ -1,0 +1,46 @@
+.hr-primary{
+  background-image: -webkit-linear-gradient(left, rgba(66,133,244,.8), rgba(66, 133, 244,.6), rgba(0,0,0,0));
+}
+
+.fc-content{
+	cursor: pointer;
+}
+
+.modal-header{
+	background-color:#3a87ad;
+}
+
+.modal-title{
+	color:#FFFFFF;
+}
+
+.text-error{
+	border-left: 5px solid #b30000;
+	background-color: #ffcccc;
+}
+
+
+.modal-header-alert{
+	background-color: #d43f3a !important;
+}
+
+.modal-header-warning{
+	background-color: #eea236 !important;
+}
+
+.modal-header-primary{
+	background-color: #337ab7 !important;
+}
+
+.selected_pets{
+	display:none;
+}
+
+.selected_pets_section{
+	color:#337ab7;
+}
+
+.input-transactions{
+	border:none;
+	background:transparent;
+}
